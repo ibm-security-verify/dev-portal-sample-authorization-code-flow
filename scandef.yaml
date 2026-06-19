@@ -10,7 +10,7 @@ defaults:
       - name: "dev-portal"
 
 squads:
-- name: development
+- name: dev-sample-authorization-code-flow
   sourceRepositories:
   - name: Sample code for authorization code flow
     sourceRepos: 
