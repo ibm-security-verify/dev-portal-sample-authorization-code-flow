@@ -6,6 +6,7 @@ defaults:
     labels:
     - "dev-portal-sample-authorization-code-flow"
     - "security-scanning"
+    - "dev-portal-sample-app"
     components:
       - name: "dev-portal"
 
